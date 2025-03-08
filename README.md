@@ -1,3 +1,3 @@
 # cpp-playground
 
-All code written by Cursor.
+All code written by ChatGPT.
